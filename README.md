@@ -26,4 +26,4 @@ A finance tracker  that helps individuals or businesses manage their financial t
 <br>
 &emsp;&emsp;&emsp; 
 <pre>                                     <b>We are updating this in every 48 hrs.</b><br></pre>
-Reach me at <i>nagrahari31@gmail.com</i>
+Reach me at <i>aviral.np12@gmail.com</i>
